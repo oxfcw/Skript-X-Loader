@@ -1,4 +1,4 @@
-enable
+disabled
 Our Version Swapper service is currently undergoing scheduled maintenance.
 We’re working to enhance performance and stability.
 Please note that the system is temporarily offline and will be back online shortly.
