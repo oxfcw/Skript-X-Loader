@@ -1,4 +1,6 @@
-enabled
-The Skript X Version Swapper Service Is Currently Undergoing Scheduled Maintenance As Part Of Our Update To Version 1.1.6.
-This Maintenance Is Focused On Improving Performance, Stability, And Overall Reliability.
-During This Period, The System Will Be Temporarily Offline And Will Be Back Online Shortly After The Update Is Complete.
+disabled
+Hello Everyone,
+Our servers are currently experiencing an unexpected connection issue. We are actively working on a fix to restore full service as quickly as possible.
+During this period, the system will be temporarily offline. We expect to be fully back online shortly.
+
+If you need any support or have urgent questions, please contact an administrator in our Discord server. Thank you for your patience!
