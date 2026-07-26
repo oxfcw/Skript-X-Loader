@@ -1,4 +1,4 @@
-disabled
+enabled
 Hello Everyone,
 Our servers are currently experiencing an unexpected connection issue. We are actively working on a fix to restore full service as quickly as possible.
 During this period, the system will be temporarily offline. We expect to be fully back online shortly.
